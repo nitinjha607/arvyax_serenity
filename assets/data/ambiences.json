@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ambience_01",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "description": "A steady stream of forest ambience designed to block out distractions and help you achieve deep work.",
+    "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&q=80&w=800",
+    "audioAsset": "assets/audio/forest-ambience.mp3",
+    "sensoryChips": ["Binaural", "Steady", "Warm"]
+  },
+  {
+    "id": "ambience_02",
+    "title": "Evening Rain",
+    "tag": "Calm",
+    "description": "Gentle drops of rain falling on leaves, providing a naturally soothing backdrop for reading or relaxing.",
+    "image": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?auto=format&fit=crop&q=80&w=800",
+    "audioAsset": "assets/audio/evening-sound.mp3",
+    "sensoryChips": ["Soft Rain", "Breeze", "Organic"]
+  },
+  {
+    "id": "ambience_03",
+    "title": "Ocean Calm",
+    "tag": "Sleep",
+    "description": "The rhythmic sound of waves crashing on the shore, perfect for drifting off to sleep.",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?auto=format&fit=crop&q=80&w=800",
+    "audioAsset": "assets/audio/ocean-waves.mp3",
+    "sensoryChips": ["Waves", "Ocean", "Deep"]
+  },
+  {
+    "id": "ambience_04",
+    "title": "Morning Light",
+    "tag": "Reset",
+    "description": "A quick gentle soundscape to reset your mind between tasks. Soft chimes and morning birds.",
+    "image": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?auto=format&fit=crop&q=80&w=800",
+    "audioAsset": "assets/audio/morning-birdsong.mp3",
+    "sensoryChips": ["Bright", "Chimes", "Airy"]
+  },
+  {
+    "id": "ambience_05",
+    "title": "Midnight Drift",
+    "tag": "Sleep",
+    "description": "Peaceful night sounds to help you unwind after a long day.",
+    "image": "https://images.unsplash.com/photo-1507502707541-f369a3b18502?auto=format&fit=crop&q=80&w=800",
+    "audioAsset": "assets/audio/music-midnight.mp3",
+    "sensoryChips": ["Dark", "Quiet", "Still"]
+  },
+  {
+    "id": "ambience_06",
+    "title": "Deep Meditation",
+    "tag": "Reset",
+    "description": "Slow, evolving ambient pads and low frequency drones intended to ease you into a restful state.",
+    "image": "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&q=80&w=800",
+    "audioAsset": "assets/audio/deep-meditation.mp3",
+    "sensoryChips": ["Airy", "Slow", "Drone"]
+  }
+]
