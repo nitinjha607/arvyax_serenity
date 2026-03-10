@@ -48,8 +48,10 @@ ArvyaX Serenity extensively uses **Riverpod** (`flutter_riverpod`) for reactive 
 To compile the Android APK for production, run:
 ```bash
 flutter build apk --release
-```git 
-The compiled APK file will be available at:
-`build/app/outputs/flutter-apk/app-release.apk`
+```
+
+The compiled APK file is available at: `build/app/outputs/flutter-apk/app-release.apk`
+
+📥 **[Download Latest APK Release](build/app/outputs/flutter-apk/app-release.apk)**
 
 *(Note: Audio tracks and images referenced in `assets/data/ambiences.json` are placeholders for the prototype.)*
