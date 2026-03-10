@@ -52,6 +52,6 @@ flutter build apk --release
 
 The compiled APK file is available at: `build/app/outputs/flutter-apk/app-release.apk`
 
-📥 **[Download Latest APK Release](https://github.com/nitinjha607/arvyax_serenity/tree/main/apk/app-release.apk)**
+📥 **[Download Latest APK Release](https://github.com/nitinjha607/arvyax_serenity/tree/main/apk/)**
 
 *(Note: Audio tracks and images referenced in `assets/data/ambiences.json` are placeholders for the prototype.)*
